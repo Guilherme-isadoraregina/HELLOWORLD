@@ -1,4 +1,13 @@
 
+
+img {
+    width: 100%; /* Faz a imagem se adaptar ao tamanho do container */
+    max-width: 600px; /* Limita o tamanho máximo da imagem */
+    border-radius: 8px; /* Arredonda as bordas da imagem */
+    object-fit: cover; /* Mantém a proporção da imagem sem distorcer */
+}
+
+
 @keyframes dancar {
     0% {transform: scale(1);}
     50% {transform: scale(1.5);}
