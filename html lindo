@@ -40,6 +40,7 @@
     <button> Salvar</button> <button> Deletar</button>
   
     <p></p>
+    <p></p>
   <img src="foto.jpg" 
   alt="Minha foto"
 >
